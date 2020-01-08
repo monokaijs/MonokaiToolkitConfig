@@ -1,0 +1,28 @@
+{
+  "configVersion": "1.0.0",
+  "currentAppVersion": "3.0.1",
+  "supportedLanguages": [{
+    code: "en",
+    name: "English"
+  }, {
+    code: "vi",
+    name: "Tiếng Việt"
+  }],
+  "constants": {
+    "storyBucketIds": "1972774726158321",
+    "storyBucketData": "2428210163956258",
+    "inboxes": "1475048592613093",
+    "postPrivacy": "2048529131862025",
+    "messages": "2395890240532595"
+  },
+  "ads": {
+    "android": {
+      "publisherId": "ca-app-pub-8854188793461271~7452171030",
+      "interstitialAdId": "ca-app-pub-8854188793461271/1603729048"
+    },
+    "ios": {
+      "publisherId": "ca-app-pub-8854188793461271~2302869838",
+      "interstitialAdId": "ca-app-pub-8854188793461271/2995459812"
+    }
+  }
+}
