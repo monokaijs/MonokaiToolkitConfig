@@ -1,6 +1,6 @@
 {
-  "configVersion": "1.0.0",
-  "currentAppVersion": "3.0.1",
+  "configVersion": 100,
+  "currentAppVersion": 301,
   "supportedLanguages": [{
     "code": "en",
     "name": "English"
