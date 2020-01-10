@@ -1,7 +1,7 @@
 {
   "configVersion": 101,
   "currentAppVersion": 301,
-  "birthday": false,
+  "birthday": true,
   "supportedLanguages": [{
     "code": "en",
     "name": "English"
