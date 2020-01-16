@@ -1,9 +1,17 @@
 [{
-  "picture": "Picture_URL",
-  "time": 1579097943420,
   "title": {
     "en": "Login tutorial",
     "vi": "Hướng dẫn đăng nhập"
+  },
+  "subtitle": {
+    "en": "Tutorial",
+    "vi": "Hướng dẫn"
+  },
+  "picture": "Picture_URL",
+  "date": 1579097943420,
+  "shortDescription": {
+    "en": "A short tutorial about how to login into this app.",
+    "vi": "Hướng dẫn ngắn về cách đăng nhập vào app."
   },
   "content": {
     "en": "Content_URL",
