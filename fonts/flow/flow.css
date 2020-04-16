@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'flowcircular';
+    src: url('flow-circular-webfont.woff2') format('woff2'),
+    url('flow-circular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.font-flow{
+    font-family: 'flowcircular' !important;
+}
